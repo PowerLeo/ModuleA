@@ -1,0 +1,22 @@
+{
+  "name": "ModuleA",
+  "version": "0.1.0",
+  "summary": "A short description of ModuleA.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xiaoli_dev/ModuleA",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "xiaoli_dev": "ali@coinsea.pro"
+  },
+  "source": {
+    "git": "https://github.com/xiaoli_dev/ModuleA.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ModuleA/Classes/**/*"
+}
